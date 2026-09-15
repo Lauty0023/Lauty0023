@@ -1,5 +1,9 @@
-## Hi there 👋
+#👋 Hola, soy Lautaro
 
+##🎓 Estudiante de Desarrollo de Software
+##💻 Interesado en Redes, Linux e Infraestructura IT
+
+Actualmente estoy aprendiendo y desarrollando proyectos para mejorar mis conocimientos y construir experiencia práctica.
 <!--
 **Lauty0023/Lauty0023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
